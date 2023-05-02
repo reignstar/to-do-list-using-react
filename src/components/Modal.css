@@ -1,0 +1,40 @@
+.Modal {
+    position: absolute;
+    top: 500px;
+    left: 700px;
+    width: 400px;
+    height: 200px;
+    bottom: 40px;
+    background-color: rgb(136, 208, 230);
+  }
+  .btn-1{
+    display:inline-block;
+    height: 50px;
+    margin: 0 5px;
+    padding: 0 28px;
+    background:none;
+    border: solid#d30606; 
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 48px;
+    color:#d30606; 
+    border-radius: 25px;
+    transition: all .3s;
+  }
+  .btn-2{
+    display:inline-block;
+    display:inline-block;
+    height: 50px;
+    height: 50px;
+    margin: 0 5px;
+    padding: 0 28px;
+    background:blue;
+    background:blue;
+    border: 0;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 48px;
+    color: #fff;
+    border-radius: 25px;
+    transition: all .3s;
+  }
